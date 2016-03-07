@@ -9798,3 +9798,4 @@ According to this, the brutes, since they do not judge, must also have no
 knowledge of objects. In general, according to Kant, there are only
 conceptions of objects, no perceptions. I, on the contrary, say: Objects
 exist primarily only for perception, and conceptions are always
+abstractions from this perception. Therefore abstract thinking must be
