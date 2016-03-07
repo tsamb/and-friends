@@ -9796,3 +9796,4 @@ change places; then the judgment in general is defined in the same passage
 as “an act through which given ideas first become knowledge of an object.”
 According to this, the brutes, since they do not judge, must also have no
 knowledge of objects. In general, according to Kant, there are only
+conceptions of objects, no perceptions. I, on the contrary, say: Objects
