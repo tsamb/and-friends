@@ -9902,3 +9902,4 @@ this that throws light upon the secret origin of the Kantian
 philosophising, which accordingly consists in this, that Kant, after the
 happy discovery of the two forms of intuition or perception _a priori_,
 exerted himself, under the guidance of the analogy, to prove that for
+every determination of our empirical knowledge there is an _a priori_
