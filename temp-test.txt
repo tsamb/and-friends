@@ -9985,3 +9985,4 @@ from direct or intuitive knowledge. He may be compared to a man who
 measures the height of a tower by its shadow, while I am like him who
 applies the measuring-rule directly to the tower itself. Therefore, for
 him philosophy is a science _of_ conceptions, but for me it is a science
+_in_ conceptions, drawn from knowledge of perception, the one source of
