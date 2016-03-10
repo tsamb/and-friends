@@ -9980,3 +9980,4 @@ the concepts understanding and reason the sense given them in my
 explanation, which I therefore assume the reader is familiar with.
 
 An essential difference between Kant’s method and that which I follow lies
+in this, that he starts from indirect, reflected knowledge, while I start
