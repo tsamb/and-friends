@@ -9982,3 +9982,4 @@ explanation, which I therefore assume the reader is familiar with.
 An essential difference between Kant’s method and that which I follow lies
 in this, that he starts from indirect, reflected knowledge, while I start
 from direct or intuitive knowledge. He may be compared to a man who
+measures the height of a tower by its shadow, while I am like him who
