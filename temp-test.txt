@@ -10060,3 +10060,4 @@ have been found by induction, and constitute the table of judgments. These
 forms are for the most part deducible from the nature of reflective
 knowledge itself, thus directly from the reason, because they spring from
 the four laws of thought (called by me metalogical truths) and the _dictum
+de omni et nullo_. Certain others of these forms, however, have their
