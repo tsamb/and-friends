@@ -10059,3 +10059,4 @@ for the purpose of judging has certain definite and normal forms, which
 have been found by induction, and constitute the table of judgments. These
 forms are for the most part deducible from the nature of reflective
 knowledge itself, thus directly from the reason, because they spring from
+the four laws of thought (called by me metalogical truths) and the _dictum
