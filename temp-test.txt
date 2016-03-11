@@ -10057,3 +10057,4 @@ even if it were quite another world from what it is, that form of
 reflection would suit it just as well. But the combination of conceptions
 for the purpose of judging has certain definite and normal forms, which
 have been found by induction, and constitute the table of judgments. These
+forms are for the most part deducible from the nature of reflective
