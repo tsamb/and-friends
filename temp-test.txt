@@ -10087,3 +10087,4 @@ defined and completely separated by means of the addition of a special
 name. The judgment which carries out this operation is in the first case
 called a particular, and in the second case an universal judgment. For
 example, one and the same part of the sphere of the concept tree may be
+isolated through a particular and through an universal judgment,
