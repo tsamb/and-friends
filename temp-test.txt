@@ -10085,3 +10085,4 @@ this may happen in two ways,—either the narrower concept may be indicated
 as an indefinite part of the wider concept in general, or it may be
 defined and completely separated by means of the addition of a special
 name. The judgment which carries out this operation is in the first case
+called a particular, and in the second case an universal judgment. For
