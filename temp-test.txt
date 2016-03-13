@@ -10074,3 +10074,4 @@ this it follows of itself that a deduction of categories from them is
 wanting, and the assumption of this is just as groundless as its
 exposition was found to be entangled and self-conflicting.
 
+1. The so-called _Quantity_ of judgments springs from the nature of
