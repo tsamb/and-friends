@@ -10083,3 +10083,4 @@ and the wider, less determined concept includes the narrower and more
 determined. The latter can therefore be separated from the former, and
 this may happen in two ways,—either the narrower concept may be indicated
 as an indefinite part of the wider concept in general, or it may be
+defined and completely separated by means of the addition of a special
