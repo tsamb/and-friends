@@ -10093,3 +10093,4 @@ that the difference of the two operations is very slight; indeed, that the
 possibility of it depends upon the richness of the language. Nevertheless,
 Kant has explained this difference as disclosing two fundamentally
 different actions, functions, categories of the pure understanding which
+determines experience _a priori_ through them.
