@@ -10073,3 +10073,4 @@ point out the origin of each of them in the sources referred to; and from
 this it follows of itself that a deduction of categories from them is
 wanting, and the assumption of this is just as groundless as its
 exposition was found to be entangled and self-conflicting.
+
