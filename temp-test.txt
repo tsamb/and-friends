@@ -10177,3 +10177,4 @@ they are only applied to already completed judgments, in which the
 combination of the concepts remains unchanged the categorical. But they
 again connect these judgments, for the hypothetical form expresses their
 dependence upon each other, and the disjunctive their incompatibility.
+Mere concepts, however, have only _one_ class of relations to each other,
