@@ -10176,3 +10176,4 @@ disjunctive combination are properly no special forms of the judgment; for
 they are only applied to already completed judgments, in which the
 combination of the concepts remains unchanged the categorical. But they
 again connect these judgments, for the hypothetical form expresses their
+dependence upon each other, and the disjunctive their incompatibility.
