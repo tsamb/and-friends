@@ -10191,3 +10191,4 @@ related, and even identical, the easily surveyed modifications of the one
 possible relation of mere concepts to each other, and, on the other hand,
 unites what is very different under this title of relation.
 
+Categorical judgments have as their metalogical principle the laws of
