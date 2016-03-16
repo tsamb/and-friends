@@ -10180,3 +10180,4 @@ dependence upon each other, and the disjunctive their incompatibility.
 Mere concepts, however, have only _one_ class of relations to each other,
 those which are expressed in the categorical judgment. The fuller
 determination, or the sub-species of this relation, are the intersection
+and the complete separateness of the concept-spheres, _i.e._, thus
