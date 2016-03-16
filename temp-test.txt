@@ -10248,3 +10248,4 @@ alternative propositions is also necessarily the negation of the other;
 if, on the other hand, we think two things in the relation of reciprocity,
 the affirmation of one is also necessarily the affirmation of the other,
 and _vice versa_. Therefore, unquestionably, the real logical analogue of
+reciprocity is the vicious circle, for in it, as nominally in the case of
