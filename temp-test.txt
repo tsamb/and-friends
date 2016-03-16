@@ -10195,3 +10195,4 @@ Categorical judgments have as their metalogical principle the laws of
 thought of identity and contradiction. But the _ground_ of the connection
 of the concept-spheres which gives _truth_ to the judgment, which is
 nothing but this connection, may be of very different kinds; and,
+according to this, the truth of the judgment is either logical, or
