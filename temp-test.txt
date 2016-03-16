@@ -10245,3 +10245,4 @@ the problematical determination of a concept by disjunctive predicates and
 the thought of reciprocity? The two are indeed absolutely opposed, for in
 the disjunctive judgment the actual affirmation of one of the two
 alternative propositions is also necessarily the negation of the other;
+if, on the other hand, we think two things in the relation of reciprocity,
