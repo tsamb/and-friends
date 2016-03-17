@@ -10274,3 +10274,4 @@ new state is either again permanent or it is not, but immediately
 introduces a third state, and the necessity with which this happens is
 just the law of causality, which is a form of the principle of sufficient
 reason, and therefore cannot be further explained, because the principle
+of sufficient reason is the principle of all explanation and of all
