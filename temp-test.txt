@@ -10259,3 +10259,4 @@ empty, false, and invalid. First of all, the reader must call to mind what
 causality really is, and to assist my exposition, see upon this subject §
 20 of the introductory essay, also my prize-essay on the freedom of the
 will, chap. iii. p. 27 _seq._, and lastly the fourth chapter of the second
+book of this work. Causality is the law according to which the conditions
