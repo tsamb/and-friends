@@ -10291,3 +10291,4 @@ required the continued existence of all its determinations, but we are
 then no longer concerned with change and causality, but with duration and
 rest, and nothing further is said than that if _one_ determination of the
 whole state be changed, the new state which then appears cannot continue,
+but becomes the cause of the change of all the other determinations of the
