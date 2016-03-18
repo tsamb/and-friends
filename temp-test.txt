@@ -10342,3 +10342,4 @@ which it was itself brought about, but individually is new. Only here the
 matter is complicated, because the chain no longer consists of links of
 two kinds, but of many kinds, so that a link of the same name only recurs
 after several others have intervened. But we always see before us only an
+application of the single and simple law of causality which gives the rule
