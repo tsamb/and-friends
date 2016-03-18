@@ -10352,3 +10352,4 @@ strongly and have fully explained in the essay on the principle of
 sufficient reason, that the cause and the effect are not two bodies, but
 two successive states of bodies, consequently each of the two states
 implicates all bodies concerned; thus the effect, _i.e._, the newly
+appearing state, for example, in the case of an impulse, extends to both
