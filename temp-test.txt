@@ -10341,3 +10341,4 @@ every state introduces a new one, which is of the same kind as that by
 which it was itself brought about, but individually is new. Only here the
 matter is complicated, because the chain no longer consists of links of
 two kinds, but of many kinds, so that a link of the same name only recurs
+after several others have intervened. But we always see before us only an
