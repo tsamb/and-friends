@@ -10303,3 +10303,4 @@ which has only significance with reference to changes, finds no
 application at all, or else it is an alternating succession of states of
 the same name which condition each other, for the explanation of which
 simple causality is quite sufficient. An example of the first class is
+afforded by a pair of scales brought to rest by equal weights. Here there
