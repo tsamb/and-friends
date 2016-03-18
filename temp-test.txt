@@ -10339,3 +10339,4 @@ This is also the case with the swinging of the pendulum, and indeed also
 with the self-conservation of the organised body, in which case likewise
 every state introduces a new one, which is of the same kind as that by
 which it was itself brought about, but individually is new. Only here the
+matter is complicated, because the chain no longer consists of links of
