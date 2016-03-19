@@ -10385,3 +10385,4 @@ Physic., lib. ii. c. 3, and Metaph., lib. v. c. 2. Εστι δε τινα και
 αλλ᾽ ου τον αυτον τροπον, αλλα το μεν ὡς τελος, το δε ὡς αρχη κινησεως.
 (_Sunt præterea quæ sibi sunt mutuo causæ, ut exercitium bonæ habitudinis,
 et hæc exercitii: at non eodem modo, sed hæc ut finis, aliud ut principium
+motus._) If, besides this, he had accepted a reciprocity proper, he would
