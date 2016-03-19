@@ -10405,3 +10405,4 @@ deduced is not true. On the contrary, they spring from the single original
 form of all knowledge, which is, therefore, known to us _a priori_, the
 principle of sufficient reason; and indeed out of this the knowledge of
 _necessity_ springs directly. On the other hand, it is only because
+reflection is applied to this that the conceptions of contingency,
