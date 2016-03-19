@@ -10355,3 +10355,4 @@ implicates all bodies concerned; thus the effect, _i.e._, the newly
 appearing state, for example, in the case of an impulse, extends to both
 bodies in the same proportion; therefore the body impelled produces just
 as great a change in the body impelling as it itself sustains (each in
+proportion to its mass and velocity). If one pleases to call this
