@@ -10376,3 +10376,4 @@ corresponding form of the understanding, is the ground of the assertion
 that perpetual motion is impossible.
 
 Aristotle also denies reciprocity in the strict sense; for he remarks that
+two things may certainly be reciprocal causes of each other, but only if
