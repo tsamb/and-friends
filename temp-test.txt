@@ -10498,3 +10498,4 @@ philosophy has applied abstraction to the following mistaken use. It was
 clear that that of which the reason is given inevitably follows, _i.e._,
 cannot not be, and thus necessarily is. But that philosophy held to this
 last determination alone, and said that is necessary which cannot be
+otherwise, or the opposite of which is impossible. It left, however, the
