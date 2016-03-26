@@ -10545,3 +10545,4 @@ judgment.
 
 What in general (as a rule) is apodictic (a law of nature), is in
 reference to a particular case only problematical, because the condition
+must actually appear which brings the case under the rule. And conversely,
