@@ -10538,3 +10538,4 @@ I take this opportunity of adding a few further remarks on these
 conceptions of modality. Since all necessity rests upon the principle of
 sufficient reason, and is on this account relative, all _apodictic_
 judgments are originally, and according to their ultimate significance,
+_hypothetical_. They become _categorical_ only through the addition of an
