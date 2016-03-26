@@ -10541,3 +10541,4 @@ judgments are originally, and according to their ultimate significance,
 _hypothetical_. They become _categorical_ only through the addition of an
 _assertatory_ minor, thus in the conclusion. If this minor is still
 undecided, and this indecision is expressed, this gives the problematical
+judgment.
