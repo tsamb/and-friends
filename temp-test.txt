@@ -10549,3 +10549,4 @@ must actually appear which brings the case under the rule. And conversely,
 what in the particular as such is necessary (apodictic) (every particular
 change necessary through the cause), is again in general, and predicated
 universally, only problematical; because the causes which appear only
+concern the particular case, and the apodictic, always hypothetical
