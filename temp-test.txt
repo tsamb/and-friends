@@ -10593,3 +10593,4 @@ the possibility for the particular case, because it brings it under the
 rule, and thereby it becomes at once actual. For example:
 
 _Maj._ All houses (consequently also my house) can be destroyed by fire.
+
