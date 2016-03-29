@@ -10588,3 +10588,4 @@ syllogism to which possibility gives the premises. But for this is
 required not only the major but also the minor; only the two give complete
 possibility. The major gives a merely theoretical, general possibility _in
 abstracto_, but this of itself does not make anything possible, _i.e._,
+capable of becoming actual. For this the minor also is needed, which gives
