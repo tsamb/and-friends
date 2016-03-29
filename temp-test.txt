@@ -10584,3 +10584,4 @@ Fato_. Diodorus says: “Only what becomes actual was possible, and all that
 is actual is also necessary.” Chrysippus on the other hand says: “Much
 that is possible never becomes actual; for only the necessary becomes
 actual.” We may explain this thus: Actuality is the conclusion of a
+syllogism to which possibility gives the premises. But for this is
