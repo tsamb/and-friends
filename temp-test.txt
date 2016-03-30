@@ -10597,3 +10597,4 @@ _Maj._ All houses (consequently also my house) can be destroyed by fire.
 _Min._ My house is on fire.
 
 _Concl._ My house is being destroyed by fire.
+
