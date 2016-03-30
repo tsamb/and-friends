@@ -10611,3 +10611,4 @@ necessary, which can also be seen from the fact that necessity only means
 being the consequent of a given reason: this is in the case of the actual
 a cause: thus everything actual is necessary. Accordingly, we see here the
 conceptions of the possible, the actual, and the necessary unite, and not
+merely the last presuppose the first, but also the converse. What keeps
