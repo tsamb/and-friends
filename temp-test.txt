@@ -10606,3 +10606,4 @@ minor. The major always loads the cannon, but only if the minor brings the
 match does the shot, _i.e._, the conclusion, follow. This holds good
 throughout of the relation of possibility to actuality. Since now the
 conclusion, which is the assertion of actuality, always follows
+_necessarily_, it is evident from this that all that is actual is also
