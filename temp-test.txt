@@ -10601,3 +10601,4 @@ _Concl._ My house is being destroyed by fire.
 For every general proposition, thus every major, always determines things
 with reference to actuality only under a presupposition, therefore
 hypothetically; for example, the capability of being burnt down has as a
+presupposition the catching fire. This presupposition is produced in the
