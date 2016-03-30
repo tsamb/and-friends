@@ -10599,3 +10599,4 @@ _Min._ My house is on fire.
 _Concl._ My house is being destroyed by fire.
 
 For every general proposition, thus every major, always determines things
+with reference to actuality only under a presupposition, therefore
