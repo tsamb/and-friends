@@ -10595,3 +10595,4 @@ rule, and thereby it becomes at once actual. For example:
 _Maj._ All houses (consequently also my house) can be destroyed by fire.
 
 _Min._ My house is on fire.
+
