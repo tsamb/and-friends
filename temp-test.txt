@@ -10636,3 +10636,4 @@ abstract concepts, possibility is always connected with the more general,
 and necessity with the more limited concept; for example, “An animal _may_
 be a bird, a fish, an amphibious creature, &c.” “A nightingale _must_ be a
 bird, a bird _must_ be an animal, an animal _must_ be an organism, an
+organism _must_ be a body.” This is because logical necessity, the
