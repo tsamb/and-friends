@@ -10634,3 +10634,4 @@ impossibility, physical, logical, mathematical and practical. It may
 further be remarked that if one remains entirely within the province of
 abstract concepts, possibility is always connected with the more general,
 and necessity with the more limited concept; for example, “An animal _may_
+be a bird, a fish, an amphibious creature, &c.” “A nightingale _must_ be a
