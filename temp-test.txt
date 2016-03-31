@@ -10638,3 +10638,4 @@ be a bird, a fish, an amphibious creature, &c.” “A nightingale _must_ be a
 bird, a bird _must_ be an animal, an animal _must_ be an organism, an
 organism _must_ be a body.” This is because logical necessity, the
 expression of which is the syllogism, proceeds from the general to the
+particular, and never conversely. In the concrete world of nature (ideas
