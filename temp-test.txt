@@ -10640,3 +10640,4 @@ organism _must_ be a body.” This is because logical necessity, the
 expression of which is the syllogism, proceeds from the general to the
 particular, and never conversely. In the concrete world of nature (ideas
 of the first class), on the contrary, everything is really necessary
+through the law of causality; only added reflection can conceive it as
