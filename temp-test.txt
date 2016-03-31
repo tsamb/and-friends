@@ -10652,3 +10652,4 @@ concepts of reflection: for example, “A triangle _may_ be right-angled,
 obtuse-angled, or equiangular; its three angles _must_ be equal to two
 right-angles.” Thus here we only arrive at the possible through the
 transition from the perceptible to the abstract.
+
