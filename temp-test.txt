@@ -10653,3 +10653,4 @@ obtuse-angled, or equiangular; its three angles _must_ be equal to two
 right-angles.” Thus here we only arrive at the possible through the
 transition from the perceptible to the abstract.
 
+After this exposition, which presupposes the recollection of what was said
