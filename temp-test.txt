@@ -10648,3 +10648,4 @@ as is also shown by the derivation of the word from the conception of
 causality. In the third class of ideas, that of pure mathematical
 perception or intuition, if we confine ourselves strictly to it, there is
 only necessity. Possibility occurs here also only through relation to the
+concepts of reflection: for example, “A triangle _may_ be right-angled,
