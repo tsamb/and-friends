@@ -10698,3 +10698,4 @@ the expressions alone are retained. These have their source partly in
 Aristotle’s _Analyt. priora_, i. 23 (περι ποιοτητος και ποσοτητος των του
 συλλογισμου ὁρων: _de qualitate et quantitate terminorum syllogismi_), but
 are arbitrarily chosen; for the extent of the concepts might certainly
+have been otherwise expressed than through the word _quantity_, though
